@@ -1,3 +1,5 @@
+print('De chill')
+
 x = int(input('Mete un número entero: '))
 
 y = x / 2
